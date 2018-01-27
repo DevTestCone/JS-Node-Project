@@ -1,3 +1,3 @@
 "# JS-Node-Project" 
 
-1. NIGHTMARE - Web scraping - ashort test code that collects the paragraphs within nightmare website
+1. NIGHTMARE - Web scraping - short test code that collects paragraphs within nightmare website
