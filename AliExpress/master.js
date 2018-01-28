@@ -13,8 +13,8 @@ nightmare
     let findPrice = document.querySelectorAll("#hs-below-list-items .item .info .price .value")
     let getAll = [];
     for (i = 0; i < findName.length; i++) {
-      getAll.push(findName[i].outerHTML);
-      getAll.push(findPrice[i].outerHTML);
+      getAll.push(findName[i].innerHTML);
+      getAll.push(findPrice[i].innerHTML);
     }
     return getAll;
   })
